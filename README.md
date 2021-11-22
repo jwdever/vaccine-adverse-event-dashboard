@@ -1,0 +1,1 @@
+This application compares Covid vaccine adverse event relative frequencies in VAERS and EudraVigilance data with relative frequencies from control data.
